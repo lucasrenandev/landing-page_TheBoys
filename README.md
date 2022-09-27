@@ -1,3 +1,3 @@
 # landing-page_TheBoys
 
-Landing Page da Série The Boys da Amazon
+Landing Page da série The Boys da Amazon
