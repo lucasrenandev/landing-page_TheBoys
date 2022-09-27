@@ -131,7 +131,7 @@ main section .boxPlay:hover {
 }
 
 main section .buttonPlay {
-    padding: 1em;
+    padding: 16px;
     display: flex;
     align-items: center;
     justify-content: center;
